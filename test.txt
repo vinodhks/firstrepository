@@ -7,3 +7,8 @@ This is my first test file
 
 123456789
 987654321
+
+1. video on installing git and git commands to add files and push to github
+https://youtu.be/J_Clau1bYco
+
+https://youtu.be/xuB1Id2Wxak
